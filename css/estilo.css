@@ -1,0 +1,66 @@
+*{font-family: Arial, sans-serif;}
+
+body{
+    background-color: #e7e7e7;
+    margin-left: 50px;
+}
+
+button{
+    width: 250px;
+    height: 30px;
+    background-color: rgb(183, 161, 226);
+    border-radius: 5px;
+    border: rgb(183, 161, 226);
+}
+
+li{
+    padding: 5px;
+}
+
+div{
+    margin-bottom: 50px;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+a:hover{
+    color: black;
+}
+
+h1{
+    color: rgb(183, 161, 226);
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.namorado{
+    width: 200px;
+    border-radius: 10px;
+}   
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    border: 2px solid #000000;
+    padding: 10px;
+}
+
+.bandeiras {
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+}
